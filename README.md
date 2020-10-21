@@ -5,7 +5,7 @@ IMB-DC is an interactive multibundle solver (Fortran 95) for constrained nonsmoo
 
 The software uses code PLQDF1 by Prof. Ladislav Luksan to solve quadratic direction finding problem.
 
-The software is free for academic teaching and research purposes but I ask you to refer the reference given below if you use it. To use the software modify timbdc.f95 and functions.f95 as needed. If you have any questions concerning the software, please contact directly the author Kaisa Joki (email: kjjoki@utu.fi).
+The software is free for academic teaching and research purposes but I ask you to refer the reference given below if you use it. To use the software modify timbdc.f95, imbdc.f95 and functions.f95 as needed. If you have any questions concerning the software, please contact directly the author Kaisa Joki (email: kjjoki@utu.fi).
 
 # Codes include:        
                                                                                               
