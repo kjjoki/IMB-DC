@@ -19,7 +19,7 @@ bundle2.f95        - Bundle of DC component f_2
 
 functions.f95      - User-specified DC components f_1 and f_2 together with subgradients of DC components. Contains also user-specified initial values for parameters                                 
 
-imbdc.f95          - IMB-DC method                                                  
+imbdc.f95          - IMB-DC method and actual values for paramters                                                  
                                                                                               
 plqdf1.f           - Quadratic solver by Ladislav Luksan                           
                                                                                               
