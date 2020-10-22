@@ -7,7 +7,7 @@ The software uses code PLQDF1 by Prof. Ladislav Luksan to solve quadratic direct
 
 The software is free for academic teaching and research purposes but I ask you to refer the reference given below if you use it. To use the software modify timbdc.f95, imbdc.f95 and functions.f95 as needed. If you have any questions concerning the software, please contact directly the author Kaisa Joki (email: kjjoki@utu.fi).
 
-# Codes include:        
+# Code include:        
                                                                                               
 timbdc.f95         - Main program for IMB-DC    
 
@@ -26,6 +26,6 @@ plqdf1.f           - Quadratic solver by Ladislav Luksan
 Makefile           - Makefile                                                      
                                                                                               
                                                                                 
-# References:                                                                        
+# Reference:                                                                        
                                                                                               
 [1] Outi Montonen and Kaisa Joki: "Interactive multibundle method for constrained multiobjective DC optimization". (manuscript)                                     
